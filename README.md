@@ -3,8 +3,8 @@
 <p>👋 Hi, I’m Bruno Leonardo.</p>
 <p>🎓 I'm studying IT in Senac.</p>
 <p>👀 I’m interested in Programmation, Data Base and Automation.</p>
-<p>🌱 I’m currently learning SQLite.</p>
-<p>💞️ I’m looking to collaborate on Data Base with Power BI and Python.</p>
+<p>🌱 I’m currently learning Js and React.</p>
+<p>👔 Hard Skills: Power BI | Python | SQLite | Java | HTML</p>
 <p>📫 Discord: nextxd</p>
 <p>💼 LinkedIn: brunols7</p>
 <div>
