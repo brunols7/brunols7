@@ -3,7 +3,7 @@
 <p>👋 Hi, I’m Bruno Leonardo.</p>
 <p>🎓 Systems Analysis and Development Student at Senac.</p>
 <p>👀 Data Analyst | BackEnd Developer</p>
-<p>🌱 I’m currently learning Js and React for a project.</p>
+<p>🌱 I’m currently learning Js and React Native for a project.</p>
 <p>👔 Hard Skills: Power BI | Python | SQLite | Java | HTML</p>
 <p>📫 Discord: nextxd</p>
 <p>💼 LinkedIn: brunols7</p>
