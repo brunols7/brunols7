@@ -22,8 +22,14 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="85" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="85" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="85" height="30"/>&nbsp;
-
-  <div>
+<div/>
+  
+### :hammer_and_wrench: Learning:
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="120" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="ReactNative" alt="ReactNative" width="125" height="30"/>&nbsp;
+</div>
+    <div>
     <a href="https://github.com/brunols7">
     <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunols7&layout=compact&langs_count=7&theme=dracula"/>
   </div>
