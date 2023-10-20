@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **Java and Spring Boot**
 
 💬 Ask me about **Python, Power BI and SQL**
 
