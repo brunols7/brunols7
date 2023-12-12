@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Java and Spring Boot**
 
-💬 Ask me about **Java, SQL, Python**
+💬 Ask me about **Java, React, SQL**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
