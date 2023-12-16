@@ -23,9 +23,10 @@
 ### 🛠 Languages and Tools:
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="85" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="85" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="85" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="85" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="95" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="90" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="95" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" title="Firebase" alt="Firebase" width="105" height="30"/>&nbsp;
 <div/>
   
 <h3 align="left">Other Languages and Tools:</h3>
