@@ -30,7 +30,6 @@
 <div/>
   
 <h3 align="left">Other Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="105" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="65" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="105" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" title="Hibernate" alt="Hibernate" width="105" height="30"/>&nbsp;
