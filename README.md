@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Leonardo</h1>
-<h3 align="center">Full Stack Developer from Brazil.</h3>
+<h3 align="center">Back-End Developer from Brazil.</h3>
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
