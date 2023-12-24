@@ -30,13 +30,11 @@
 <div/>
   
 <h3 align="left">Other Languages and Tools:</h3>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" width="95" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="95" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="PowerBI" alt="PowerBI" width="105" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="65" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="105" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" title="Hibernate" alt="Hibernate" width="105" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="PowerBI" alt="PowerBI" width="105" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="105" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" width="85" height="30"/>&nbsp;
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunols7&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="brunols7" /></p>
 
