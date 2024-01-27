@@ -22,6 +22,7 @@
 
 ### 🛠 Languages and Tools:
 <div>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart" width="95" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="85" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="105" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="95" height="30"/>&nbsp;
@@ -36,7 +37,6 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="105" height="30"/>&nbsp;
 
 <h3>Studying and Improving...</h3>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart" width="95" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" width="105" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="105" height="30"/>&nbsp;
 
