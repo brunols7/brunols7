@@ -13,6 +13,8 @@
 
 📱 Discord: **nextxd**
 
+🙋‍♂️ Portfolio: <a href="https://brunols7.github.io/portfolio-site/" target="_blank">Click Here</a>
+
 💼 LinkedIn: **brunols7**
 
 <h3 align="left">Connect with me:</h3>
