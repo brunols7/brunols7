@@ -5,9 +5,9 @@
 
 💼 I'm currently working on **MakeDrive**
 
-🌱 I’m currently learning **Flutter, Firebase**
+🌱 I’m currently learning **Java, Flutter**
 
-💬 Ask me about **Flutter, Java, SQL**
+💬 Ask me about **Python, Java, SQL**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
@@ -35,12 +35,15 @@
 <div/>
   
 <h3 align="left">Other Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="100" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs" alt="NodeJs" width="105" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript" width="125" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="105" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="100" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="PowerBI" alt="PowerBI" width="105" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud Platform" alt="GCP" width="135" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="65" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="105" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker" width="105" height="30"/>&nbsp;
 
 <br>
 <br>
