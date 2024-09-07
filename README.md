@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Leonardo</h1>
-<h3 align="center">FullStack & Mobile Developer from Brazil.</h3>
+<h3 align="center">FullStack & FlutterFlow Developer from Brazil.</h3>
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
 💼 I'm currently working on **MakeDrive** and **É.culth**
 
-🌱 I’m currently learning **Java, Flutter**
-
-💬 Ask me about **Dart, Java**
+💬 Ask me about **Flutterflow, Dart and Java**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
@@ -18,9 +16,12 @@
 💼 LinkedIn: **brunols7**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/brunols7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>&nbsp; 
-</p>
+
+<div>
+    <a href="https://www.linkedin.com/in/brunols7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" title="LinkedIn" alt="LinkedIn" width="115" height="30"/></a>&nbsp;
+  <a href="mailto:bruno.lsilva1508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" width="95" height="30"/></a>&nbsp;
+</div>
+
 
 ---
 
