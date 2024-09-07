@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno Leonardo</h1>
-<h3 align="center">Software Developer from Brazil.</h3>
+<h3 align="center">FullStack & Mobile Developer from Brazil.</h3>
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working on **MakeDrive**
+💼 I'm currently working on **MakeDrive** and **É.culth**
 
 🌱 I’m currently learning **Java, Flutter**
 
-💬 Ask me about **Python, Java, SQL**
+💬 Ask me about **Dart, Java**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
