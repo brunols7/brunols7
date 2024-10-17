@@ -35,7 +35,9 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite"  alt="SQLite" width="95" height="30"/>&nbsp;
 <div/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<div>
+    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+</div>
   
 <h3 align="left">Other Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs" alt="NodeJs" width="105" height="30"/>&nbsp;
