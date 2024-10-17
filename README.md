@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working on **MakeDrive** and **É.culth**
+💼 I'm currently working on **MakeDrive**
 
 💬 Ask me about **Flutterflow, Dart and Java**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <div>
-    <a href="https://www.linkedin.com/in/brunols7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" title="LinkedIn" alt="LinkedIn" width="115" height="30"/></a>&nbsp;
-  <a href="mailto:bruno.lsilva1508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" width="95" height="30"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/brunols7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:bruno.lsilva1508@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail"/></a>&nbsp;
 </div>
 
 
@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Firebase" alt="Firebase" width="105" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite"  alt="SQLite" width="95" height="30"/>&nbsp;
 <div/>
+
+<div>
+    ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+</div>
   
 <h3 align="left">Other Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs" alt="NodeJs" width="105" height="30"/>&nbsp;
