@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working on **MakeDrive**
+💼 I'm currently working on **Wa Project**
 
 💬 Ask me about **Flutterflow, Dart and Java**
 
