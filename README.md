@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Leonardo</h1>
-<h3 align="center">FullStack & FlutterFlow Developer from Brazil.</h3>
+<h3 align="center">Mobile Developer from Brazil.</h3>
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
 💼 I'm currently working on **Wa Project**
 
-💬 Ask me about **Flutterflow, Dart and Java**
+💬 Ask me about **Flutterflow, Flutter, Dart and Java**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
