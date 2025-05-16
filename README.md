@@ -37,7 +37,7 @@
 <div/>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,java,nodejs,react,bootstrap,html,css,js,figma,firebase,supabase,sqlite,gcp,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,react,html,css,js,firebase,supabase,postgres,sqlite,gcp,aws,docker,figma&perline=4)](https://skillicons.dev)
   
 <!--
 <h3 align="left">Other Languages and Tools:</h3>
