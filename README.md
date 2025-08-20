@@ -5,7 +5,7 @@
 
 💼 I'm currently working on **Wa Project**
 
-💬 Ask me about **Flutterflow, Flutter, Dart and Java**
+💬 Ask me about **Java and Spring**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
