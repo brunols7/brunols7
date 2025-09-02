@@ -11,7 +11,7 @@
 
 📱 Discord: **nextxd**
 
-🙋‍♂️ Portfolio: <a href="https://brunols.me" target="_blank">Click Here</a>
+<!-- 🙋‍♂️ Portfolio: <a href="https://brunols.me" target="_blank">Click Here</a> -->
 
 💼 LinkedIn: **brunols7**
 
