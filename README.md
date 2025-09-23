@@ -5,6 +5,8 @@
 
 💼 I'm currently working on **Wa Project**
 
+🧠 I'm currently studying **Go**
+
 💬 Ask me about **Java and Spring**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
