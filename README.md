@@ -5,7 +5,7 @@
 
 💼 I'm currently working on **Wa Project**
 
-🧠 I'm currently studying **Go**
+🧠 I'm currently studying more about **NodeJs and NestJs**
 
 💬 Ask me about **Java and Spring**
 
