@@ -39,7 +39,7 @@
 <div/>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,js,flutter,dart,html,tailwind,gcp,aws,docker,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,typescript,flutter,dart,html,tailwind,gcp,aws,docker,postgres&perline=4)](https://skillicons.dev)
   
 <!--
 <h3 align="left">Other Languages and Tools:</h3>
