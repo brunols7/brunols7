@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working on **Codefica.Ai**
+💼 I'm currently working at **Codefica.Ai**
 
 🧠 I'm currently studying more about **NodeJs and NestJs**
 
