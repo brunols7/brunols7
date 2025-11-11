@@ -7,7 +7,7 @@
 
 🧠 I'm currently studying more about **NodeJs and NestJs**
 
-💬 Ask me about **Java and Spring**
+<!-- 💬 Ask me about **Java and Spring** -->
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
