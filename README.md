@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working on **Wa Project**
+💼 I'm currently working on **Codefica.Ai**
 
 🧠 I'm currently studying more about **NodeJs and NestJs**
 
@@ -39,7 +39,7 @@
 <div/>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,react,html,css,js,firebase,supabase,postgres,sqlite,gcp,aws,docker,figma&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,js,flutter,dart,html,tailwind,gcp,aws,docker,postgres&perline=4)](https://skillicons.dev)
   
 <!--
 <h3 align="left">Other Languages and Tools:</h3>
