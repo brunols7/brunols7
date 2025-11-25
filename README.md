@@ -5,7 +5,7 @@
 
 💼 I'm currently working at **Codefica.Ai**
 
-🧠 I'm currently studying more about **NodeJs and NestJs**
+🧠 I'm currently studying more about **NestJs and React Native**
 
 <!-- 💬 Ask me about **Java and Spring** -->
 
