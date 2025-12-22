@@ -5,15 +5,11 @@
 
 💼 I'm currently working at **Codefica.Ai**
 
-🧠 I'm currently studying more about **NestJs and React Native**
-
-<!-- 💬 Ask me about **Java and Spring** -->
+🧠 I'm currently studying more about **React Native**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
 📱 Discord: **nextxd**
-
-<!-- 🙋‍♂️ Portfolio: <a href="https://brunols.me" target="_blank">Click Here</a> -->
 
 💼 LinkedIn: **brunols7**
 
