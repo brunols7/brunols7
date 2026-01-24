@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working at **Codefica.Ai**
+💼 I'm currently working at **Onebrain**
 
 🧠 I'm currently studying more about **React Native**
 
