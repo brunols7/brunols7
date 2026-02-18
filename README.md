@@ -5,7 +5,7 @@
 
 💼 I'm currently working at **Onebrain**
 
-🧠 I'm currently studying more about **React Native**
+🧠 I'm currently studying more about **React Native** and **iOS**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
@@ -25,9 +25,4 @@
 
 ### 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,typescript,flutter,dart,html,tailwind,gcp,aws,docker,postgres&perline=4)](https://skillicons.dev)
-
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunols7&show_icons=true&locale=en&theme=blue-green" alt="brunols7" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunols7&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="brunols7" /></p>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,firebase,swift,java)](https://skillicons.dev)
