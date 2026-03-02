@@ -25,4 +25,4 @@
 
 ### 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,firebase,swift,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,flutter,dart,firebase,swift,java)](https://skillicons.dev)
