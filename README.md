@@ -5,7 +5,7 @@
 
 💼 I'm currently working at **Onebrain**
 
-🧠 I'm currently studying more about **React Native** and **Swift**
+🧠 I'm currently studying more about **Swift** and **SwiftUI**
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
