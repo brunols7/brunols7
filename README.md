@@ -5,11 +5,11 @@
 
 💼 I'm currently working at **Onebrain**
 
-🧠 I'm currently studying more about **Swift** and **SwiftUI**
+🚀 Currently building personal mobile applications with React Native, Expo, TypeScript and Firebase
+
+🌱 Continuously improving my skills in React Native, backend architecture and cloud services
 
 📫 How to reach me **bruno.lsilva1508@gmail.com**
-
-📱 Discord: **nextxd**
 
 💼 LinkedIn: **brunols7**
 
