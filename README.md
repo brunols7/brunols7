@@ -9,6 +9,8 @@
 
 🌱 Continuously improving my skills in React Native, backend architecture and cloud services
 
+🌐 Currently building YourTurn, a social mobile app for small groups of friends — <a href="https://www.your-turn.social" target="_blank">your-turn.social</a> (Beta / Testing)
+
 📫 How to reach me **bruno.lsilva1508@gmail.com**
 
 💼 LinkedIn: **brunols7**
