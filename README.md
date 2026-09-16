@@ -7,7 +7,7 @@
 
 🚀 Currently building personal mobile applications with React Native, Expo, TypeScript and Firebase
 
-🌱 Continuously improving my skills in React Native, backend architecture and cloud services
+🌱 Continuously improving my skills in SwiftUI and iOS development
 
 🌐 Currently building YourTurn, a social mobile app for small groups of friends — <a href="https://www.your-turn.social" target="_blank">your-turn.social</a> (Beta / Testing)
 
