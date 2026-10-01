@@ -3,7 +3,7 @@
 
 🎓 I'm currently studying on **Systems Analysis and Development Student at Senac**
 
-💼 I'm currently working at **Onebrain**
+💼 I'm currently working at **Tecsa Group**
 
 🚀 Currently building personal mobile applications with React Native, Expo, TypeScript and Firebase
 
